@@ -1,4 +1,4 @@
-# CS348K_Project
+# CS348K Project
 
 Choosing the right representation for a given task is a central theme in computer graphics. A simple example is the distinction between implicit and explicit representations of 3D scenes. Implicit representations, such as algebraic surfaces or signed distance functions (SDFs), are well-suited for inside/outside queries but are less convenient for sampling surface points. In contrast, explicit representations like meshes or point clouds allow direct surface sampling but can be less flexible for certain geometric queries.
 
